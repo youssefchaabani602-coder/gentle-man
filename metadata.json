@@ -1,0 +1,6 @@
+{
+  "name": "Gentleman Atelier — Kairouan",
+  "description": "3D interactive menswear storefront for Gentleman Kairouan featuring online catalog, 10-point 10% loyalty rewards, WhatsApp order tracking, Google Maps integration, and real-time financial & inventory analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
